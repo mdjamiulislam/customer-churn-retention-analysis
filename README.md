@@ -28,23 +28,23 @@ The project addresses three key business questions:
 
 ### 1. Executive Churn Overview
 
-![Executive Churn Overview](screenshots/01_Executive_Overview.png)
+![Executive Churn Overview](./screenshots/01_Executive_Overview.png)
 
 ### 2. Churn Drivers
 
-![Churn Drivers](screenshots/02_Churn_Drivers.png)
+![Churn Drivers](./screenshots/02_Churn_Drivers.png)
 
 ### 3. Customer Segmentation & Retention Priority
 
-![Retention Priority](screenshots/03_Retention_Priority.png)
+![Retention Priority](./screenshots/03_Retention_Priority.png)
 
 ### 4. Revenue & Retention Risk
 
-![Revenue and Retention Risk](screenshots/04_Revenue_Retention_Risk.png)
+![Revenue and Retention Risk](./screenshots/04_Revenue_Retention_Risk.png)
 
 ### 5. Data Quality & Methodology
 
-![Data Quality and Methodology](screenshots/05_Data_Quality_Methodology.png)
+![Data Quality and Methodology](./screenshots/05_Data_Quality_Methodology.png)
 
 ## Technical Architecture
 
