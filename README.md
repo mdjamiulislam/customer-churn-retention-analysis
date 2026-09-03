@@ -28,7 +28,7 @@ The project addresses three key business questions:
 
 ### 1. Executive Churn Overview
 
-![Executive Churn Overview](./screenshots/01_Executive_Overview.png)
+![Executive Churn Overview](./screenshots/01_executive_overview.png)
 
 ### 2. Churn Drivers
 
