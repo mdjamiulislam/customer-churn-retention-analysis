@@ -28,23 +28,23 @@ The project addresses three key business questions:
 
 ### 1. Executive Churn Overview
 
-![Executive Churn Overview](./screenshots/01_executive_overview.png)
+![Executive Churn Overview](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/01_executive_overview.png)
 
 ### 2. Churn Drivers
 
-![Churn Drivers](./screenshots/02_Churn_Drivers.png)
+![Churn Drivers](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/02_churn_drivers.png)
 
 ### 3. Customer Segmentation & Retention Priority
 
-![Retention Priority](./screenshots/03_Retention_Priority.png)
+![Retention Priority](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/03_retention_priority.png)
 
 ### 4. Revenue & Retention Risk
 
-![Revenue and Retention Risk](./screenshots/04_Revenue_Retention_Risk.png)
+![Revenue and Retention Risk](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/04_revenue_retention_risk.png)
 
 ### 5. Data Quality & Methodology
 
-![Data Quality and Methodology](./screenshots/05_Data_Quality_Methodology.png)
+![Data Quality and Methodology](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/05_data_quality_methodology.png)
 
 ## Technical Architecture
 
