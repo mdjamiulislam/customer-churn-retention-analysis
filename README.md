@@ -24,7 +24,7 @@ The project addresses three key business questions:
 - P1/P2 customers represented **22.7%** of existing customers but **26.9% of existing-customer CLTV**
 - High-Value At-Risk customers represented approximately **$3.0M in CLTV**
 
-- ## Dashboard
+## Dashboard
 
 ### 1. Executive Churn Overview
 
