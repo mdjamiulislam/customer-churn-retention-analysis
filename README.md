@@ -28,23 +28,23 @@ The project addresses three key business questions:
 
 ### 1. Executive Churn Overview
 
-![Executive Churn Overview](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/01_executive_overview.png)
+![Executive Churn Overview](screenshots/01_executive_overview.png)
 
 ### 2. Churn Drivers
 
-![Churn Drivers](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/02_churn_drivers.png)
+![Churn Drivers](screenshots/02_churn_drivers.png)
 
 ### 3. Customer Segmentation & Retention Priority
 
-![Retention Priority](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/03_retention_priority.png)
+![Retention Priority](screenshots/03_retention_priority.png)
 
 ### 4. Revenue & Retention Risk
 
-![Revenue and Retention Risk](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/04_revenue_retention_risk.png)
+![Revenue and Retention Risk](screenshots/04_revenue_retention_risk.png)
 
 ### 5. Data Quality & Methodology
 
-![Data Quality and Methodology](https://github.com/mdjamiulislam/customer-churn-retention-analysis/blob/main/05_data_quality_methodology.png)
+![Data Quality and Methodology](screenshots/05_data_quality_methodology.png)
 
 ## Technical Architecture
 
@@ -71,12 +71,8 @@ Interactive Power BI Dashboard
 This demonstrates that the project was much more than dashboard building.
 
 ---
+```
 
-# 15. Add SQL workflow
-
-Use:
-
-```markdown
 ## SQL Workflow
 
 | Script | Purpose |
