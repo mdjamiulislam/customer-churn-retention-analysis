@@ -67,6 +67,7 @@ Power BI Reporting Layer
           ↓
 Interactive Power BI Dashboard
 
+```
 
 This demonstrates that the project was much more than dashboard building.
 
@@ -80,13 +81,49 @@ This demonstrates that the project was much more than dashboard building.
 | `01_database_setup.sql` | Database schemas and staging tables |
 | `02_ingestion_validation.sql` | Import and source reconciliation |
 | `03_data_profiling.sql` | Data-quality audit |
-| `04_create_analytics_layer.sql` | Cleaning and transformation |
+| `04_create_analytics_churn_clean.sql` | Cleaning and transformation |
 | `05_core_kpis.sql` | Executive KPI calculations |
 | `06_churn_driver_analysis.sql` | Churn-rate and churn-lift analysis |
 | `07_retention_segmentation.sql` | Retention prioritization framework |
 | `08_revenue_value_risk_analysis.sql` | Financial and CLTV analysis |
 | `09_powerbi_reporting_layer.sql` | Power BI-ready reporting views |
 
+```
+
+## Repository Structure
+
+```text
+customer-churn-retention-analysis/
+│
+├── data/
+│
+├── documentation/
+│
+├── powerbi/
+│   └── Customer_Churn_Retention_Analysis.pbix
+│
+├── screenshots/
+│   ├── 01_executive_overview.png
+│   ├── 02_churn_drivers.png
+│   ├── 03_retention_priority.png
+│   ├── 04_revenue_retention_risk.png
+│   ├── 05_data_quality_methodology.png
+│   └── README.md
+│
+├── sql/
+│   ├── 01_database_setup.sql
+│   ├── 02_ingestion_validation.sql
+│   ├── 03_data_profiling.sql
+│   ├── 04_create_analytics_churn_clean.sql
+│   ├── 05_core_kpis.sql
+│   ├── 06_churn_driver_analysis.sql
+│   ├── 07_retention_segmentation.sql
+│   ├── 08_revenue_value_risk_analysis.sql
+│   ├── 09_powerbi_reporting_layer.sql
+│   └── README.md
+│
+└── README.md
+```
 
 ## Skills Demonstrated
 
